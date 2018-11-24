@@ -1,11 +1,5 @@
-twitchÕËºÅ£ºzhangtailun
-ÃÜÂë£ºztl19901228me
-
-¹íÓ°ÕËºÅ:308231588@qq.com
-ÃÜÂë:laobansb438
-
-Ğ¡»ÆÕËºÅ:420220567@qq.com
-ÃÜÂë:laobansb438
+twitch:zhangtailun
+ztl19901228me
 
 ElvUI¹ÙÍø:https://www.tukui.org/download.php?ui=elvui
 
