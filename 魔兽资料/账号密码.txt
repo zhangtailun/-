@@ -15,3 +15,8 @@ TinyInspect:http://nga.178.com/read.php?tid=10240957&_ff=200
 
 调整伤害数字大小命令：
 /console WorldTextScale 1
+
+https://github.com/zhangtailun/Fonts.git
+https://github.com/zhangtailun/Interface.git
+https://github.com/zhangtailun/WTF.git
+https://github.com/zhangtailun/WowData.git
