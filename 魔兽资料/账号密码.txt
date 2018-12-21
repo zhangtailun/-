@@ -9,6 +9,8 @@ TinyInspect:http://nga.178.com/read.php?tid=10240957&_ff=200
 
 ÏÔÊ¾ÉËº¦Êı×ÖÃüÁî£º
 /console floatingCombatTextCombatDamage 1
+ÏÔÊ¾ÖÎÁÆÊı×ÖÃüÁî£º
+/console floatingCombatTextCombatHealing 1
 
 É¾³ıºêÃüÁî£º
 /script for i=1,138 do DeleteMacro(i) end
