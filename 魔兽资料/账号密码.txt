@@ -11,6 +11,8 @@ TinyInspect:http://nga.178.com/read.php?tid=10240957&_ff=200
 /console floatingCombatTextCombatDamage 1
 显示治疗数字命令：
 /console floatingCombatTextCombatHealing 1
+伤害数字弹出方式命令：
+/console floatingCombatTextCombatDamageDirectionalScale  从-5到5
 
 删除宏命令：
 /script for i=1,138 do DeleteMacro(i) end
